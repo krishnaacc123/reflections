@@ -11,10 +11,17 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+->By adding only files that belong to that logic to staging area and then doing commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+-> If we are introducing a change that is not official and we are just giving a try to that feature.
+	Branches help to create changes to project without actually changing the real project.
+
 How do the diagrams help you visualize the branch structure?
+
+-> It gives the structure of tree.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
